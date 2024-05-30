@@ -1,3 +1,4 @@
+
 Sub stock_script():
 
     [I1] = "Ticker"
